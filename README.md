@@ -27,7 +27,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone <repository-link>
+git clone https://github.com/hhoow0093/Pool-Diary.git
 
 # 2. Navigate to the project folder
 cd path/to/the/project
