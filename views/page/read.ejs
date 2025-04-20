@@ -1,0 +1,65 @@
+<%- include('../template/header.ejs') %>
+<link rel="stylesheet" href="/css/index.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<%- include('../template/loader.ejs') %>
+<%- include('../template/Navbar.ejs') %>
+<section class="hero-section">
+    <h1 class="title">A Web Where You Can Express</h1>
+    <h2 class="title2">Your Stories & Feelings</h2>
+    <!-- ocean animation-->
+    <div class="waveWrapper waveAnimation">
+       <div class="waveWrapperInner bgTop">
+         <div class="wave waveTop" style="background-image: url('http://front-end-noobs.com/jecko/img/wave-top.png')"></div>
+       </div>
+       <div class="waveWrapperInner bgMiddle">
+         <div class="wave waveMiddle" style="background-image: url('http://front-end-noobs.com/jecko/img/wave-mid.png')"></div>
+       </div>
+       <div class="waveWrapperInner bgBottom">
+         <div class="wave waveBottom" style="background-image: url('http://front-end-noobs.com/jecko/img/wave-bot.png')"></div>
+       </div>
+     </div>
+ </section>
+
+ <section class="content container-fluid">
+    <div class="row">
+       <div class="col-12 col-md-8 reading-section">
+          <div class="box-for-diary">
+             <h2 class="fw-bold">Your diary List</h2>
+             <div class="mycard">
+                   <div class="col-12 my-diary-list-card">
+                         <h3><%=  Data_read.title %></h3>
+                         <h4><%= Data_read.date%></h4>
+                         <h6><%= Data_read.description %></h6>
+                         <p><%= Data_read.story %></p>
+                         <div class="readbox">
+                            <a href="/index %>"><button type="button" class="btn btn-dark">Back</button></a>
+                         </div>
+                   </div>
+             </div>
+          </div>
+       </div>
+       <div class="col-12 col-md-4">
+        <h2 class="fw-bold">Your Pinned diary</h2>
+        <div class="biar-middle">
+           <% for(let i = 0; i < pinned_Diary.length; i++){ %>
+              <div class="pinned-card">
+                 <div class="row">
+                    <div class="col-12 my-pinned-diary">
+                       <h3><%= pinned_Diary[i].title %></h3>
+                       <h4><%= pinned_Diary[i].date %></h4>
+                       <h6><%= pinned_Diary[i].description %></h6>
+                       <div class="readbox">
+                          <a href="/read/<%= pinned_Diary[i].id %>"><button type="button" class="btn btn-dark">Read</button></a>
+                       </div>
+                    </div>
+                 </div>
+              </div>
+              <% } %>
+        </div>
+     </div>
+    </div>
+ </section>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="/js/penting.js"></script>
+<%- include('../template/footer.ejs') %>

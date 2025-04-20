@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2",
+    "title": "Doctor Appointment",
+    "date": "2025-04-03",
+    "description": "Annual physical checkup at 10:00 am.",
+    "story": "Jenna arrived at the clinic early, sip her coffee while scrolling through her phone. It had been a year since her last checkup, and she felt a mix of nerves and relief. The receptionist greeted her warmly and handed over a form. After a short wait, she was called in. The doctor went through the usual routine—blood pressure, heart rate, reflex tests. As they talked about lifestyle, Jenna realized she had been neglecting her health. It was a wake-up call. She left with a promise to herself: eat better, walk more, and finally take health seriously before it's too late."
+  },
+  {
+    "id": "3",
+    "title": "Birthday Party",
+    "date": "2025-04-25",
+    "description": "Celebrate John's birthday at his place.",
+    "story": "The apartment was buzzing with laughter and music as balloons danced in the air and confetti glimmered under the lights. John’s birthday had always been a big event for the friend group, and this year was no exception. Friends brought gifts wrapped in bright paper, and the smell of pizza and cake filled the room. John gave a heartfelt speech that reminded everyone why they valued him so much. Stories from the past brought back memories, and everyone left that night with their hearts a little fuller, grateful for friendship and moments that become stories they'll tell for years."
+  },
+  {
+    "id": "4",
+    "title": "Webinar on AI",
+    "date": "2025-04-30",
+    "description": "Join live webinar on AI and Machine Learning.",
+    "story": "Eli set up his workspace an hour early, not wanting to miss a second of the AI webinar he'd been anticipating for weeks. The presenter, a well-known AI researcher, started off with a mind-blowing overview of current advancements. As the session delved into neural networks, ethical implications, and real-world applications, Eli took notes furiously. Questions from around the world flooded the chat, sparking discussions on everything from autonomous vehicles to AI in art. By the end, Eli was inspired to begin a new project, armed with fresh ideas and a deeper respect for the possibilities of artificial intelligence."
+  },
+  {
+    "id": "8",
+    "title": "Family Dinner",
+    "date": "2025-04-23",
+    "description": "Dinner with family at the new Italian restaurant.",
+    "story": "The aroma of garlic, basil, and freshly baked bread welcomed them as the family stepped into the cozy new Italian place. Laughter echoed from other tables, and the warm lighting made everything feel intimate. They shared dishes family-style—pasta alfredo, margherita pizza, and tiramisu. Conversations flowed easily, from old stories to new updates. The youngest showed off her art, and the eldest shared memories from her childhood. It was a night of joy, connection, and bonding. They left the restaurant with full bellies and fuller hearts, grateful for the moments that reminded them of what truly mattered—time spent together."
+  }
+]

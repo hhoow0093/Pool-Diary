@@ -1,0 +1,20 @@
+.footer{
+    min-height: 25vh;
+    background-color: black;
+    min-width: 375px;
+}
+
+.github{
+    text-align: end;
+}
+
+.svg{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.my-github-repo{
+    font-size: 20px;
+    font-weight: 300;
+}

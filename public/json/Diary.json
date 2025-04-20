@@ -1,0 +1,107 @@
+[
+  {
+    "id": "2",
+    "title": "Doctor Appointment",
+    "date": "2025-04-03",
+    "description": "Annual physical checkup at 10:00 am.",
+    "story": "Jenna arrived at the clinic early, sip her coffee while scrolling through her phone. It had been a year since her last checkup, and she felt a mix of nerves and relief. The receptionist greeted her warmly and handed over a form. After a short wait, she was called in. The doctor went through the usual routine—blood pressure, heart rate, reflex tests. As they talked about lifestyle, Jenna realized she had been neglecting her health. It was a wake-up call. She left with a promise to herself: eat better, walk more, and finally take health seriously before it's too late."
+  },
+  {
+    "id": "3",
+    "title": "Birthday Party",
+    "date": "2025-04-25",
+    "description": "Celebrate John's birthday at his place.",
+    "story": "The apartment was buzzing with laughter and music as balloons danced in the air and confetti glimmered under the lights. John’s birthday had always been a big event for the friend group, and this year was no exception. Friends brought gifts wrapped in bright paper, and the smell of pizza and cake filled the room. John gave a heartfelt speech that reminded everyone why they valued him so much. Stories from the past brought back memories, and everyone left that night with their hearts a little fuller, grateful for friendship and moments that become stories they'll tell for years."
+  },
+  {
+    "id": "4",
+    "title": "Webinar on AI",
+    "date": "2025-04-30",
+    "description": "Join live webinar on AI and Machine Learning.",
+    "story": "Eli set up his workspace an hour early, not wanting to miss a second of the AI webinar he'd been anticipating for weeks. The presenter, a well-known AI researcher, started off with a mind-blowing overview of current advancements. As the session delved into neural networks, ethical implications, and real-world applications, Eli took notes furiously. Questions from around the world flooded the chat, sparking discussions on everything from autonomous vehicles to AI in art. By the end, Eli was inspired to begin a new project, armed with fresh ideas and a deeper respect for the possibilities of artificial intelligence."
+  },
+  {
+    "id": "5",
+    "title": "Grocery Shopping",
+    "date": "2025-04-22",
+    "description": "Buy weekly groceries from the local market.",
+    "story": "The local market was bustling with weekend energy. Sarah navigated the colorful stalls filled with fresh vegetables, ripe fruits, and aromatic herbs. She greeted familiar faces—the elderly baker with his sourdough loaves, the spice vendor who always gave her a good deal. As she picked items from her list, she was also inspired by spontaneous finds: sweet mangoes, organic honey, and handmade pasta. Children ran past her, laughing, and street musicians played cheerful tunes. It wasn’t just a chore anymore—it felt like a weekly ritual of community connection, nourishment, and a celebration of simple joys hiding in everyday life."
+  },
+  {
+    "id": "6",
+    "title": "Yoga Class",
+    "date": "2025-04-19",
+    "description": "Attend morning yoga session at the community center.",
+    "story": "The soft sound of a singing bowl marked the beginning of the yoga session. Emma stood at the back of the community center, inhaling deeply as she followed the instructor's lead. The early sun filtered through the tall windows, casting warm golden rays on the hardwood floor. As they moved through poses—warrior, downward dog, and child's pose—Emma felt her stress melt away. The gentle rhythm of movement and breath brought clarity to her mind. After class, she sipped herbal tea with other participants, exchanging smiles and gratitude. It wasn’t just exercise—it was a peaceful ritual that grounded her each week."
+  },
+  {
+    "id": "7",
+    "title": "Client Presentation",
+    "date": "2025-04-21",
+    "description": "Present project updates to the client at 2:00 PM.",
+    "story": "Nina stood in front of the large screen, remote in hand, heart pounding just a bit faster than usual. The client had flown in to hear about the project's progress, and expectations were high. Slide by slide, she walked them through their accomplishments—milestones achieved, obstacles overcome, and solutions implemented. Questions came fast, but Nina was prepared. By the end, the client was visibly impressed, nodding with approval. The room erupted in a small round of applause. That evening, the team celebrated their win, knowing they had not only delivered results but also strengthened trust with one of their biggest partners."
+  },
+  {
+    "id": "8",
+    "title": "Family Dinner",
+    "date": "2025-04-23",
+    "description": "Dinner with family at the new Italian restaurant.",
+    "story": "The aroma of garlic, basil, and freshly baked bread welcomed them as the family stepped into the cozy new Italian place. Laughter echoed from other tables, and the warm lighting made everything feel intimate. They shared dishes family-style—pasta alfredo, margherita pizza, and tiramisu. Conversations flowed easily, from old stories to new updates. The youngest showed off her art, and the eldest shared memories from her childhood. It was a night of joy, connection, and bonding. They left the restaurant with full bellies and fuller hearts, grateful for the moments that reminded them of what truly mattered—time spent together."
+  },
+  {
+    "id": "9",
+    "title": "Car Service",
+    "date": "2025-04-24",
+    "description": "Take the car for scheduled maintenance.",
+    "story": "Jake dropped his car off at the service center early in the morning, hoping for a quick turnaround. While waiting, he walked to a nearby café and treated himself to a croissant and coffee. As he scrolled through his phone, he reflected on how the car had taken him through years of adventures, commutes, and road trips. The call from the mechanic came with good news: everything looked great. He picked it up feeling a small sense of accomplishment. Maintenance might be routine, but knowing his car was in top shape gave Jake peace of mind for journeys ahead."
+  },
+  {
+    "id": "10",
+    "title": "Book Club Meeting",
+    "date": "2025-04-26",
+    "description": "Discuss the latest book at the library.",
+    "story": "In a quiet corner of the library, the book club gathered, each member clutching a well-thumbed copy of the latest novel. The discussion kicked off with differing opinions—some loved the plot twists, others were unconvinced by the ending. As they delved into themes, characters, and symbolism, the room came alive with passion and insight. Tea and cookies sat in the center of the table, untouched as everyone debated favorite quotes and moments. For two hours, they lost themselves in literature and connection. They left inspired, already eager to start the next book on the list, their minds enriched again."
+  },
+  {
+    "id": "11",
+    "title": "Volunteer Work",
+    "date": "2025-04-27",
+    "description": "Help at the local animal shelter.",
+    "story": "Anna tied her apron and entered the shelter, greeted by the joyful barking of dogs and the curious eyes of cats. She spent the morning cleaning cages, feeding the animals, and taking a few dogs out for a walk in the sunshine. One shy puppy clung to her side, slowly warming up as she whispered gentle words. By the end of the day, her clothes were a mess, but her spirit was uplifted. Giving her time brought a sense of purpose. She left the shelter smiling, already planning her return. Each small act of care truly made a difference."
+  },
+  {
+    "id": "12",
+    "title": "Photography Workshop",
+    "date": "2025-04-28",
+    "description": "Attend a workshop on landscape photography.",
+    "story": "Liam arrived early, camera in hand and memory card cleared. The workshop was hosted at a scenic park, where the trees were starting to blossom. The instructor guided them through techniques—framing, lighting, exposure—and shared stories behind iconic landscape shots. As they practiced, Liam captured birds in flight, sunlight over a stream, and shadows dancing on the grass. Each photo taught him something new. By the end of the day, he had a full album and a head full of ideas. It was more than learning—it was reconnecting with a passion that reminded him how beautiful the world truly is."
+  },
+  {
+    "id": "13",
+    "title": "Team Outing",
+    "date": "2025-04-29",
+    "description": "Outdoor team-building activities.",
+    "story": "The team met at a local adventure park, trading laptops and whiteboards for ropes, kayaks, and laughter. The first activity involved solving a giant puzzle while blindfolded—a hilarious and frustrating experience that left them cheering when they finally got it. They raced through obstacle courses, helped each other climb walls, and shared stories over sandwiches by the river. Away from the office, they saw each other differently—not as coworkers but as friends. Bonds were strengthened, jokes shared, and memories made. They returned to work the next day with sore muscles but a newfound respect for teamwork and collaboration."
+  },
+  {
+    "id": "14",
+    "title": "Dentist Appointment",
+    "date": "2025-05-01",
+    "description": "Routine dental checkup at 11:00 AM.",
+    "story": "Mark sat in the waiting room flipping through outdated magazines, trying not to think about the dental drill. When his name was called, he smiled politely and took a seat in the bright chair. The hygienist chatted as she cleaned, asking about work and weekend plans. The dentist came in with a friendly nod, examined his teeth, and announced no cavities—just a reminder to floss more. Mark left relieved, clutching a new toothbrush and tiny floss packet. The visit, though routine, gave him a clean slate and a reminder of how small habits keep bigger problems at bay."
+  },
+  {
+    "id": "15",
+    "title": "Movie Movie",
+    "date": "2025-05-02",
+    "description": "Watch the latest blockbuster with friends.",
+    "story": "The theater buzzed with excitement as Alex and his friends found their seats, popcorn in hand. The previews ended, the lights dimmed, and the room fell silent. For the next two hours, they were transported into a world of action, laughter, and heart. Every twist was met with gasps, every joke with laughter. After the credits rolled, they stood outside the theater discussing favorite scenes, plot holes, and possible sequels. It wasn’t just a movie—it was an experience, a shared escape from reality. As they walked to their cars, they already planned the next night out. Friendship made it better."
+  },
+  {
+    "id": "16",
+    "title": "Eating Gado gado in the weekend",
+    "date": "2025-04-20",
+    "description": "My first time eating gado gado in the weekend",
+    "story": "My first time eating gado-gado in the weekend. it was yummy and healthy. but a little bit sweet"
+  }
+]

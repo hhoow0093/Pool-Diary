@@ -1,0 +1,116 @@
+@font-face {
+    font-family: 'Inter-Extra-Bold';
+    src: url('/font/Inter_18pt-ExtraBold.ttf');
+}
+
+.navbar > *{
+    font-family: 'Inter-Extra-Bold', sans-serif;
+    color: white;
+
+}
+
+.navbar{
+    min-height: 146px;
+    width: 100vw;
+    background-color: black;
+    display: flex;
+    flex-shrink: 0;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+    min-width: 375px;
+}
+
+.my-link{
+    display: flex;
+    min-height: 146px;
+}
+
+.link1, .link2, .link3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 249px;
+    height: 100%;
+}
+
+.link1:hover, .link2:hover, .link3:hover{
+    background-color: #404040;
+    cursor: pointer;
+}
+
+.hamburger{
+    display: none;
+}
+
+.hamburger:hover{
+    background-color: #404040;
+    cursor: pointer;
+}
+
+.hamburger-lists{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 5;
+}
+
+.link1-burger, .link2-burger, .link3-burger{
+    font-size: 30px;
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    justify-content: center;    
+}
+
+.close-button{
+    position: fixed;
+    top: 15px;
+    right: 15px;
+}
+
+.hamburger-lists.close{
+    display: none;
+}
+
+
+@media screen and (max-width:920px) {
+    .my-link{
+        display: none;
+    }
+
+    .hamburger{
+        display: block;
+    }
+
+    .hamburger > img{
+        width: 120px;
+        height: 120px;
+
+    }
+    .logo > img{
+        width: 120px;
+        height: 120px;
+
+    }
+    .close-button > img{
+        width: 80px;
+        height: 80px;
+    }
+
+    
+}
+
+a{
+    text-decoration: none; 
+    color: inherit; 
+}

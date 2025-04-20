@@ -1,0 +1,42 @@
+.find{
+    max-width: 705px;
+    min-width: 375px;
+}
+
+.col-12.find-pinned {
+    width: 75%;
+}
+
+.search{
+    min-height: 50px;
+}
+
+.layout-manage{
+    min-height: 100vh;
+}
+
+.diary-section{
+    height: auto;   
+}
+
+.cards, .pinned-cards{
+    background-color: #D9D9D9;
+    min-width: 300px;
+}
+
+.manage-button{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    gap: 5px;
+}
+
+.pembungkus-cards{
+    max-height: 70vh;
+    overflow-y: scroll;
+    
+}
+
+.diary-section, .pinned-diary-section{
+    overflow-x: hidden;
+}

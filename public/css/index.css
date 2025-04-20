@@ -1,0 +1,173 @@
+@font-face {
+    font-family: 'Inter-Extra-Bold';
+    src: url('/font/Inter_18pt-ExtraBold.ttf');
+}
+
+@font-face{
+    font-family: 'Inter-Light-Italic';
+    src: url('/font/Inter_18pt-LightItalic.ttf');
+
+}
+
+.hero-section{
+    background-image: url('/img/Hero-Section.png');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    background-attachment: fixed;
+    min-width: 375px;
+}
+
+.hero-section > h1{
+    font-family: 'Inter-Extra-Bold', sans-serif;
+    color: white;
+    z-index: 2;
+
+}
+
+.hero-section > h2{
+    font-family: 'Inter-Light-Italic', sans-serif;
+    color: white;
+    z-index: 2;
+}
+
+@media screen and (max-width: 420px) {
+    .hero-section > h1{
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .hero-section > h2{
+        font-size: 15px;
+        text-align: center;
+    }
+    
+}
+
+
+@keyframes move_wave {
+    0% {
+        transform: translateX(0) translateZ(0) scaleY(1)
+    }
+    50% {
+        transform: translateX(-25%) translateZ(0) scaleY(0.55)
+    }
+    100% {
+        transform: translateX(-50%) translateZ(0) scaleY(1)
+    }
+}
+
+/* ocean animation*/
+.waveWrapper {
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+}
+.bgTop {
+    z-index: 15;
+    opacity: 0.5;
+}
+.bgMiddle {
+    z-index: 10;
+    opacity: 0.75;
+}
+.bgBottom {
+    z-index: 5;
+}
+.wave {
+    position: absolute;
+    left: 0;
+    width: 200%;
+    height: 100%;
+    background-repeat: repeat no-repeat;
+    background-position: 0 bottom;
+    transform-origin: center bottom;
+}
+.waveTop {
+    background-size: 50% 100px;
+}
+.waveAnimation .waveTop {
+  animation: move-wave 3s;
+   -webkit-animation: move-wave 3s;
+   -webkit-animation-delay: 1s;
+   animation-delay: 1s;
+}
+.waveMiddle {
+    background-size: 50% 120px;
+}
+.waveAnimation .waveMiddle {
+    animation: move_wave 10s linear infinite;
+}
+.waveBottom {
+    background-size: 50% 100px;
+}
+.waveAnimation .waveBottom {
+    animation: move_wave 15s linear infinite;
+}
+
+/*section content*/
+.content{
+    min-height: 80vh;
+}
+
+.mycard{
+    background-color: #D7D7D7;
+    margin-bottom: 10px;
+    padding: 10px;
+    min-width: 300px;
+}
+
+.pagination .page-link {
+    color: black; 
+    background-color: white; 
+    border-color: black; 
+}
+
+.pagination .page-link:hover {
+    color: white; 
+    background-color: black; 
+    border-color: black; 
+}
+
+.pagination .page-item.active .page-link {
+    color: white; 
+    background-color: black; 
+    border-color: black; 
+}
+
+.box-for-pagination{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+    height: auto;
+    min-width: 300px;
+}
+
+.readbox{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.biar-middle{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.pinned-card{
+    background-color: #D7D7D7;
+    padding: 10px;
+    margin-bottom: 10px;
+    min-width: 300px;
+}
