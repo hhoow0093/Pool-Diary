@@ -1,4 +1,4 @@
-<a href='https://postimg.cc/WhrtCVDn' target='_blank'><img src='https://i.postimg.cc/02Xm62PL/Screenshot-2025-04-21-000630.png' border='0' alt='Screenshot-2025-04-21-000630'/></a><br /><a href='https://postimages.org/'>image share</a><br />
+<a href='https://postimg.cc/WhrtCVDn' target='_blank'><img src='https://i.postimg.cc/02Xm62PL/Screenshot-2025-04-21-000630.png' border='0' alt='Screenshot-2025-04-21-000630'/></a><br /><a href='https://postimages.org/'></a><br />
 
 # 🪣 POOL Diary — Capstone Project
 
