@@ -1,3 +1,5 @@
+<a href='https://postimg.cc/WhrtCVDn' target='_blank'><img src='https://i.postimg.cc/02Xm62PL/Screenshot-2025-04-21-000630.png' border='0' alt='Screenshot-2025-04-21-000630'/></a><br /><a href='https://postimages.org/'></a><br />
+
 # 🪣 POOL Diary — Capstone Project
 
 Welcome to **POOL Diary**, a personal diary web app that lets users express themselves freely. This capstone project revisits both **frontend** and **backend** development using **Express.js**, offering a full-stack experience.
