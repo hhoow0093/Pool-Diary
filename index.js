@@ -5,12 +5,16 @@ import bodyParser from "body-parser";
 import session from "express-session";
 import fs from "fs";
 
+// default Username and password
+const username = "Howard";
+const password = "Howard123";
+
 const app = express();
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const port = 3000;
 
-const username = "Howard";
-const password = "Howard123";
+
+
 app.use(express.static("public"));
 app.use(bodyParser.urlencoded({ extended: true }));
 

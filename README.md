@@ -45,6 +45,17 @@ npm install -g nodemon
 nodemon index.js
 ```
 
+### 🛠️ Login Information
+
+Once the server is running, you'll land on the **login page**.
+
+> ✅ **Default Credentials**  
+> **Username:** `Howard`  
+> **Password:** `Howard123`
+
+🔒 **Want to customize it?**  
+You can change the default username and password directly in the `index.js` file.
+
 ---
 
 ## 🙌 Final Words
